@@ -17,7 +17,7 @@
 			<div class="col">
 				<div class="text-left" style="font-size: 1.5rem;">
 					Produk Ternak Anda (3)
-					<a href="input" class="btn btn-outline-dark" style="position: relative; left: 70vw;">Tambah Produk</a>
+					<a href="TmbhProduk" class="btn btn-outline-dark" style="position: relative; left: 70vw;">Tambah Produk</a>
 					<hr align="left" style="height: 1px; background: gray; width:100%; " />
 				</div>
 
