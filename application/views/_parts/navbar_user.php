@@ -25,14 +25,19 @@
 			<input class="form-control" style="height: 40px; width: 50vw; min-width: 25vw;" type="search" placeholder="Cari" aria-label="Search">
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
-		<div class="navbar-nav">
-			<a class="btn btn-dark mr-1" href="<?php echo base_url('registrasi.php') ?>">Daftar</a>
-		</div>
 
 		<div class="btn-group">
-			<button type="button" class="btn btn-outline-dark dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Login
+			<button type="button" style=" font-size: 1em;" class="btn btn-konco-profil dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Profil
+				<img src="assets/images/userdummy.jpg" style="border-radius: 50%; height: 30px; border-color: white;">
 			</button>
+			<div class="dropdown-menu dropdown-menu-right">
+				<a class="dropdown-item" href="#">Action</a>
+				<a class="dropdown-item" href="#">Another action</a>
+				<a class="dropdown-item" href="#">Something else here</a>
+				<div class="dropdown-divider"></div>
+				<a class="dropdown-item" href="#">Separated link</a>
+			</div>
 		</div>
 	</div>
 </nav>
