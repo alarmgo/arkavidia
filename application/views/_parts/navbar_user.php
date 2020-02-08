@@ -34,7 +34,7 @@
 			<div class="dropdown-menu dropdown-menu-right bg-konco" style="width: 15vw;">
 				<div class="text-center">
 					<img src="assets/images/userdummy.jpg" style="border-radius: 50%; width: 75%; margin-bottom: 5px;">
-					<a style="color: black;" href="edit"><b>Dummy User</a>
+					<a style="color: black;" href="edit"><b>Dummy User</b></a>
 					<a class="dropdown-item" href="edit">Edit Profil</a>
 				</div>
 				<div class="dropdown-divider"></div>
