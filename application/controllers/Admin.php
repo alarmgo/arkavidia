@@ -6,10 +6,13 @@ class Admin extends CI_Controller {
 	public function __construct() {
 		parent::__construct();
 		$this->load->model('M_Admin');
+		$this->load->helper('url');
+		
 	}
 	public function index()
 	{
-		$this->load->view('admin/index');
+		$data['user'] = $this->M_Admin->tampil_data()->result();
+		$this->load->view('admin/index',$data);
 	}
 
 	public function user()
@@ -36,7 +39,7 @@ class Admin extends CI_Controller {
 			'password' => $password
 		);
 		$this->M_Admin->input_data($data,'user');
-		redirect('admin/user')
+		redirect('admin/user');
 	}
 
 	public function hapus($id)
