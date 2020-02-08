@@ -19,28 +19,12 @@
                 <div class="position-fixed bg-white">
                     <div class="row">
                         <div class="col">
-                            <div class="ml-2">
-                                <b>FILTER BY:</b>
-                            </div>
-                            <div class="mt-5 ml-2">
-                                <b>Hewan</b><br>
-                            </div>
-
-                            <form class=" ml-5">
-                                <input type="checkbox" href="#" style="color: black;">Kambing (0)</input><br>
-                                <input type="checkbox" href="#" style="color: black;">Sapi (20)</input><br>
-                            </form>
-
                         </div>
                         <div class="col" style="position:absolute; left: 15vw;">
                             <hr class="" style="border-left: 1px solid black; height:100vh;">
                         </div>
-
-
                     </div>
-
                 </div>
-
             </div>
             <div class="col-10">
                 <div class="text-left ml-4">
@@ -60,7 +44,7 @@
                             <tr>
                                 <td>Terkadang penyakit timbul tanpa ada tanda-tanda sehingga..</td>
                                 <td>|</td>
-                                <td><a href="<?php site_url('artikel/ar1') ?>"><b>Lanjutkan Membaca</b></a></td>
+                                <td><b><a href="">Lanjutkan Membaca</a></b></td>
                             </tr>
                         </tbody>
                         <thead>

@@ -6,12 +6,12 @@
 				<img src="assets/images/icons/menu.png" style="height: 20px;"><br>Menu
 			</button>
 			<div class="dropdown-menu bg-konco">
-				<a class="dropdown-item" href="#">Artikel</a>
+				<a class="dropdown-item" href="<?php echo site_url('artikel') ?>">Artikel</a>
 				<a class="dropdown-item" href="#">Jual-Beli</a>
 			</div>
 		</div>
 	</button>
-	<a class="navbar-brand" href="#"><img src="assets/images/Logo.png" alt="logo" style="height: 32px;"></a>
+	<a class="navbar-brand" href="<?php echo site_url('homepage') ?>"><img src="assets/images/Logo.png" alt="logo" style="height: 32px;"></a>
 
 
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -26,13 +26,13 @@
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
 		<div class="navbar-nav">
-			<a class="btn btn-dark mr-1" href="login">Daftar</a>
+			<a class="btn btn-dark mr-1" href="#">Daftar</a>
 		</div>
 
 		<div class="btn-group">
-			<button type="button" class="btn btn-outline-dark dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			<a href="login" class="btn btn-outline-dark">
 				Masuk
-			</button>
+			</a>
 		</div>
 	</div>
 </nav>

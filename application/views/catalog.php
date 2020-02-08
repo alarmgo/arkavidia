@@ -11,34 +11,209 @@
 </head>
 
 <body>
+	<?php $this->load->view('_parts/navbar.php') ?>
 	<div class="container-fluid">
-		<div class="shadow-lg mt-5" style="width:75vw; height:75vh; margin: auto;">
-			<div class="row w-100 h-100">
-				<div class="col mx-auto my-auto pl-5">
-					<img class="img-fluid" style="object-fit: cover; object-position: 0 0; height: 80%;" src="assets/images/2.jpg">
+		<div class="row mt-4 pt-5">
+			<div class="col">
+				<?php $this->load->view('_parts/side_filter') ?>
+			</div>
+			<div class="col-10">
+				<div class="text-left ml-4">
+					Menampilkan Hasil Pencarian - "Sapi Betina"
 				</div>
-				<div class="col m-auto">
-					<div class="text-center" style="font-size: 1.5rem;">
-						Masuk <b>Konco<font color="#8B0C0C">Ternak</font></b>
+
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<a href="produk" class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</a>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="mx-auto mt-5 text-left">
-						Solusi penyebaran informasi dan perdagangan ternak untuk desa.
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="btn btn-input shadow text-left mt-3 w-100" style="height: 4rem;">
-						<font size="2rem">Email</font> <br>
-						<input type="text" name="email" placeholder="Email" style="height: 1rem; width: 100%; border: 0; outline: 0; border-bottom: 1px solid gray">
+				</div>
+
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<div class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="btn btn-input shadow text-left mt-1 w-100" style="height: 4rem;">
-						<font size="2rem">Password</font> <br>
-						<input type="text" name="password" placeholder="Email" style="height: 1rem; width: 100%; border: 0; outline: 0; border-bottom: 1px solid gray">
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="text-right">
-						<a href="homepage" class="btn btn-outline-dark mt-3">Masuk</a>
-						<div class="text-left mt-3" style="font-size:0.8rem;"><a href="forget">Lupa Password</a></div>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</div>
+				</div>
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<div class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</div>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</div>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</div>
+				</div>
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<div class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</div>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</div>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </body>
+
 </html>
