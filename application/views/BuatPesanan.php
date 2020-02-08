@@ -10,7 +10,7 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-        <div class="col"></div>
+        <div class="col bg-dark" style="width: 500px"><button class="btn btn-dark	"></button></div>
         <div class="col">
             <h3 class="text-center">Tag PHP nama hewan</h3>
             <hr>
