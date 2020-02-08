@@ -36,7 +36,7 @@ class Admin extends CI_Controller {
 			'password' => $password
 		);
 		$this->M_Admin->input_data($data,'user');
-		redirect('admin/user')
+		redirect('admin/user');
 	}
 
 	public function hapus($id)

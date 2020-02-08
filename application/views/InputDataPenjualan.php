@@ -8,6 +8,7 @@
     <?php $this->load->view('_parts/resources.php') ?>
 </head>
 <body>
+    <?php $this->load->view('_parts/navbar.php') ?>
     <div class="container-fluid row">
         <div class=col></div>
         <div class=col>
