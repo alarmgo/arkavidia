@@ -60,7 +60,7 @@
                             <tr>
                                 <td>Terkadang penyakit timbul tanpa ada tanda-tanda sehingga..</td>
                                 <td>|</td>
-                                <td><a href="<?php site_url('artikel/ar1') ?>"><b>Lanjutkan Membaca</b></a></td>
+                                <td><a href=""><b>Lanjutkan Membaca</b></a></td>
                             </tr>
                         </tbody>
                         <thead>
@@ -130,7 +130,7 @@
                             <tr>
                                 <td>Animo masyarakat yang begitu besar membuat permintaan susu kambing cukup..</td>
                                 <td>|</td>
-                                <td><b><a href="">Lanjutkan Membaca</a></b></td>
+                                <td><b><a href="are">Lanjutkan Membaca</a></b></td>
                             </tr>
                         </tbody>
                     </table>
