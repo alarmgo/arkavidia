@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<?php $this->load->view('_parts/navbar_guest.php') ?>
+	<?php $this->load->view('_parts/navbar.php') ?>
 
 </body>
 
