@@ -7,7 +7,7 @@ class Are extends CI_Controller {
     public function index()
     {
         
-        $this->load->view('ar1');
+        $this->load->view('susu_kambing');
         
     }
 
