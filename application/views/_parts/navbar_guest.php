@@ -25,7 +25,7 @@
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
 		<div class="navbar-nav">
-			<a class="btn btn-dark mr-1" href="#">Daftar</a>
+			<a class="btn btn-dark mr-1" href="daftar">Daftar</a>
 		</div>
 
 		<div class="btn-group">
