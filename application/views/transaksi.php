@@ -27,7 +27,7 @@
 						Nama Pembeli
 					</div>
 					<div class="col text-right">
-						<b>Alan R</b>
+						<b>Dummy User</b>
 					</div>
 				</div>
 				<hr align="left" style="height: 1px; background: gray; width:100%; " />
