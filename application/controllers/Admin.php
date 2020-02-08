@@ -5,6 +5,13 @@ class Admin extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('admin/overview');
+		$this->load->view('admin/index');
+	}
+
+	public function user()
+	{
+		
+		$this->load->view('admin/user');
+		
 	}
 }
