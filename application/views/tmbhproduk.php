@@ -112,11 +112,11 @@
             <div class="col text-center mt-1">
                 <div class="row">
                     <div class="col-3 text-left">
-                        Kondisi Produk
+                        Jenis Kelamin
                     </div>
                     <div class="col-9 text-left">
-                        <label class="radio-inline ml-3"><input type="radio" name="optradio">Sehat</label>
-                        <label class="radio-inline ml-3"><input type="radio" name="optradio">Sakit</label>
+                        <label class="radio-inline ml-3"><input type="radio" name="optradio">Jantan</label>
+                        <label class="radio-inline ml-3"><input type="radio" name="optradio">Betina</label>
                     </div>
                 </div>
                 <div class="row">
