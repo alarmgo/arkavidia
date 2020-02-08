@@ -102,9 +102,9 @@
 						</div>
 					</div>
 					<hr align="left" style="height: 1px; background: gray; width:80%; " />
-						<div class="row">
-							<img src="assets/images/ad.png" style="width:25vw; height:20vh;" class="bg-info ml-3">
-						</div>
+					<div class="row">
+						<img src="assets/images/ad.png" style="width:25vw; height:20vh;" class="bg-info ml-3">
+					</div>
 				</div>
 			</div>
 
@@ -115,11 +115,10 @@
 			</div>
 			<hr align="left" style="height: 1px; background: gray; width:90%; " />
 			<div class="w-75">
-				Sapi adalah hewan ternak anggota suku Bovidae dan anak suku Bovinae. Sapi yang telah dikebiri dan biasanya digunakan untuk membajak sawah dinamakan lembu. 
+				Sapi adalah hewan ternak anggota suku Bovidae dan anak suku Bovinae. Sapi yang telah dikebiri dan biasanya digunakan untuk membajak sawah dinamakan lembu.
 				Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia. Hasil sampingannya seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia.
 			</div>
 		</div>
-
 	</div>
 </body>
 

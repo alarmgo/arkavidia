@@ -41,7 +41,7 @@
 				<a class="dropdown-item" href="histori">Histori Transaksi</a>
 				<div class="btn-group">
 						<a class="dropdown-item" href="daftar_p">Daftar Produk</a>
-						<a class="dropdown-item font-weight-bold" href="input">+</a>
+						<a class="dropdown-item font-weight-bold" href="tmbhproduk">+</a>
 				</div>
 				<div class="dropdown-divider"></div>
 				<a class="dropdown-item" href="#" style="color: red;">Keluar</a>
