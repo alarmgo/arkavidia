@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Pembayaran Terkonfirmasi</title>
+	<title>Produk Ditambahkan</title>
 
 	<?php $this->load->view('_parts/resources.php') ?>
 </head>
