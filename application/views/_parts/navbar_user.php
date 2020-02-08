@@ -6,8 +6,8 @@
 				<img src="assets/images/icons/menu.png" style="height: 20px;"><br>Menu
 			</button>
 			<div class="dropdown-menu bg-konco">
-				<a class="dropdown-item" href="#">Artikel</a>
-				<a class="dropdown-item" href="#">Jual-Beli</a>
+				<a class="dropdown-item" href="<?php echo site_url('artikel') ?>">Artikel</a>
+				<a class="dropdown-item" href="<?php echo site_url('catalog') ?>">Jual-Beli</a>
 			</div>
 		</div>
 	</button>
@@ -21,7 +21,7 @@
 			</li>
 		</ul>
 
-		<form class="form-inline" style="">
+		<form class="form-inline">
 			<input class="form-control" style="height: 40px; width: 50vw; min-width: 25vw;" type="search" placeholder="Cari" aria-label="Search">
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
