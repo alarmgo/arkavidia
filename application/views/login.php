@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
+	<title>Masuk KoncoTernak</title>
 
 	<?php $this->load->view('_parts/resources.php') ?>
 </head>
@@ -25,12 +25,12 @@
 						Solusi penyebaran informasi dan perdagangan ternak untuk desa.
 					</div>
 					<div class="btn btn-input shadow text-left mt-3 w-100" style="height: 4rem;">
-						<font size="2rem">Email</font> <br>
-						<input type="text" name="email" placeholder="Email" style="height: 1rem; width: 100%; border: 0; outline: 0; border-bottom: 1px solid gray">
+						<font size="2rem">Username</font> <br>
+						<input type="email" name="username" placeholder="Masukkan Username" style="height: 1rem; width: 100%; border: 0; outline: 0; border-bottom: 1px solid gray">
 					</div>
 					<div class="btn btn-input shadow text-left mt-1 w-100" style="height: 4rem;">
 						<font size="2rem">Password</font> <br>
-						<input type="text" name="password" placeholder="Email" style="height: 1rem; width: 100%; border: 0; outline: 0; border-bottom: 1px solid gray">
+						<input type="password" name="password" placeholder="Masukkan Password" style="height: 1rem; width: 100%; border: 0; outline: 0; border-bottom: 1px solid gray">
 					</div>
 					<div class="text-right">
 						<a href="homepage" class="btn btn-outline-dark mt-3">Masuk</a>
