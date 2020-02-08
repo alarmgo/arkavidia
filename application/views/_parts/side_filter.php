@@ -25,7 +25,7 @@
 			</form>
 
 			<div class="mt-2 ml-2">
-				<b>Gender</b><br>
+				<b>Jenis Kelamin</b><br>
 			</div>
 			
 			<form class=" ml-5">
