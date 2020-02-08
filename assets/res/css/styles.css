@@ -94,3 +94,11 @@
 .shadow-inv {
 	box-shadow: 0 0 2rem 0.53rem rgba(0, 0, 0, 0.15) !important;
 }
+
+.edit {
+	display; none;
+}
+
+.edit:hover .show{
+	display: block;
+}
