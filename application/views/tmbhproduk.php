@@ -109,7 +109,7 @@
                     <hr>
                 </div>
             </div>
-            <div class="col text-center mt-3">
+            <div class="col text-center mt-1">
                 <div class="row">
                     <div class="col-3 text-left">
                         Kondisi Produk
@@ -131,6 +131,13 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-4"> </div>
+            <div class="col-4">
+                <a href="berhasiltmbh" class="btn btn-outline-dark text-center w-100 mb-3">Simpan & Tambah Baru</a>
+            </div>
+            <div class="col-4"> </div>
         </div>
     </div>
 </body>
