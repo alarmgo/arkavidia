@@ -1,11 +1,11 @@
-<nav class="navbar navbar-expand-lg navbar-light shadow-sm bg-konco">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm bg-konco">
 <button style="height: 20px;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 		<div class="btn-group">
 			<button type="button" style=" font-size: 0.5em;" class="btn btn-konco dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				<img src="assets/images/icons/menu.png" style="height: 20px;"><br>Menu
 			</button>
-			<div class="dropdown-menu">
+			<div class="dropdown-menu bg-konco">
 			<a class="dropdown-item" href="#">Artikel</a>
 				<a class="dropdown-item" href="#">Jual-Beli</a>
 			</div>
@@ -31,8 +31,13 @@
 				Profil
 				<img src="assets/images/userdummy.jpg" style="border-radius: 50%; height: 30px; border-color: white;">
 			</button>
-			<div class="dropdown-menu dropdown-menu-right">
-				<a class="dropdown-item" href="#">Action</a>
+			<div class="dropdown-menu dropdown-menu-right bg-konco">
+				<div class="text-center">
+					<img src="assets/images/userdummy.jpg" style="border-radius: 50%; width: 75%; margin-bottom: 5px;">
+					<a class="dropdown-item" href="#">Edit Profil</a>
+				</div>
+				<div class="dropdown-divider"></div>
+				
 				<a class="dropdown-item" href="#">Another action</a>
 				<a class="dropdown-item" href="#">Something else here</a>
 				<div class="dropdown-divider"></div>

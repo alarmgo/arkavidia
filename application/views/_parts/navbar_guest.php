@@ -1,12 +1,12 @@
-<nav class="navbar navbar-expand-lg navbar-light shadow-sm bg-konco">
-<button style="height: 20px;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg navbar-light shadow-sm bg-konco fixed-top">
+	<button style="height: 20px;" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 		<div class="btn-group">
 			<button type="button" style=" font-size: 0.5em;" class="btn btn-konco dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				<img src="assets/images/icons/menu.png" style="height: 20px;"><br>Menu
 			</button>
-			<div class="dropdown-menu">
-			<a class="dropdown-item" href="#">Artikel</a>
+			<div class="dropdown-menu bg-konco">
+				<a class="dropdown-item" href="#">Artikel</a>
 				<a class="dropdown-item" href="#">Jual-Beli</a>
 			</div>
 		</div>
@@ -26,12 +26,12 @@
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
 		<div class="navbar-nav">
-			<a class="btn btn-dark mr-1" href="<?php echo base_url('registrasi.php') ?>">Daftar</a>
+			<a class="btn btn-dark mr-1" href="login">Daftar</a>
 		</div>
 
 		<div class="btn-group">
 			<button type="button" class="btn btn-outline-dark dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Login
+				Masuk
 			</button>
 		</div>
 	</div>
