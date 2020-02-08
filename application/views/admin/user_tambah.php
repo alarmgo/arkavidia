@@ -53,42 +53,7 @@
                 <button type="button" class="btn btn-primary mb-2 mt-1" data-toggle="button" aria-pressed="false" autocomplete="off">
                     <a href="<?php echo site_url('admin/tambah') ?>">+</a>
                 </button>
-                <table class="display" id="example">
-                    <thead>
-                        <tr>
-                            <th>No</th>
-                            <th>Nama</th>
-                            <th>E-mail</th>
-                            <th>Username</th>
-                            <th>Hak Akses</th>
-                            <th>Aksi</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <?php
-                        $no = 1;
-                        foreach ($user as $u) {
-                        ?>
-                            <tr>
-                                <td><?php echo $no++ ?></td>
-                                <td><?php echo $u->nama ?></td>
-                                <td><?php echo $u->email ?></td>
-                                <td><?php echo $u->username ?></td>
-                                <td>
-                                    <?php if ($u->id_level == 1) {
-                                        echo "Pengguna";
-                                    } else {
-                                        echo "Programmer";
-                                    } ?>
-                                </td>
-                                <td>
-                                    <?php echo anchor('admin/edit/' . $u->id_user, 'Edit'); ?>
-                                    <?php echo anchor('admin/hapus/' . $u->id_user, 'Hapus'); ?>
-                                </td>
-                            <?php } ?>
-                            </tr>
-                    </tbody>
-                </table>
+                
             </div>
         </div>
     </div>
