@@ -90,7 +90,7 @@
 				</div>
 				<div class="row mt-3">
 					<div class="col text-left">
-						<a href="berhasil" class="btn btn-outline-dark text-center w-100 mt-4">Konfirmasi Pembayaran</a>
+						<a href="konfirm" class="btn btn-outline-dark text-center w-100 mt-4">Konfirmasi Pembayaran</a>
 					</div>
 				</div>
 			</div>
