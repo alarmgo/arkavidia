@@ -38,8 +38,12 @@
                     <p>Hal pertama tentu saja adalah pemilihan bibit yang baik. Jika Anda memilih kambing jenis etawa, pilihlah betina yang berbobot 20 kg. Sementara itu, untuk kambing sanen dan varian lainnya harus mempunyai berat ideal sekitar 40 kg ke atas.</p>
                     <p>Minat terhadap susu kambing sekarang ini semakin meningkat, dan tuntutan semakin tinggi. Jika Anda hendak memulai suatu usaha dan memutuskan beternak kambing etawa, keputusan tersebut sudah tepat. Namun, Anda juga pastinya sudah tahu, bahwa untuk menghasilkan susu yang berkualitas, tidak sembarang orang bisa merawat kambing-kambing ini dan menghasilkan produk yang terbaik.</p>
                 </div>
+                <div class="col text-left">
+                    <a href="artikel" class="btn btn-outline-dark text-center w-25 mt-4 mb-4">Lihat Artikel Lainnya</a>
+                </div>
             </div>
         </div>
     </div>
 </body>
+
 </html>
