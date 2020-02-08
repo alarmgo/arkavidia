@@ -5,6 +5,10 @@ class Buatpesanan extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('BuatPesanan');
+		$this->load->view('Buatpesanan');
+	}
+	public function konfirmasi()
+	{
+		$this->load->view('KonfirmasiPembayaran');
 	}
 }
