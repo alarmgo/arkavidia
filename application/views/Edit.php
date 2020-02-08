@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
+	<title>Edit Profile</title>
 
 	<?php $this->load->view('_parts/resources.php') ?>
 </head>
@@ -52,7 +52,7 @@
 				</a>
 			</div>
 			<div class="row text-right mx-auto mt-3">
-				<a href="#" class="btn btn-outline-dark" style="position: relative; left:80%">Simpan</a>
+				<a href="homepage" class="btn btn-outline-dark" style="position: relative; left:80%">Simpan</a>
 			</div>
 		</div>
 </body>
