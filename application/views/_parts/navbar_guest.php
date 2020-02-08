@@ -6,12 +6,12 @@
 				<img src="assets/images/icons/menu.png" style="height: 20px;"><br>Menu
 			</button>
 			<div class="dropdown-menu bg-konco">
-				<a class="dropdown-item" href="#">Artikel</a>
+				<a class="dropdown-item" href="<?php echo site_url('artikel') ?>">Artikel</a>
 				<a class="dropdown-item" href="#">Jual-Beli</a>
 			</div>
 		</div>
 	</button>
-	<a class="navbar-brand" href="#"><img src="assets/images/Logo.png" alt="logo" style="height: 32px;"></a>
+	<a class="navbar-brand" href="<?php echo site_url('homepage') ?>"><img src="assets/images/Logo.png" alt="logo" style="height: 32px;"></a>
 
 
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
