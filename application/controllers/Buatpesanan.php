@@ -7,8 +7,4 @@ class Buatpesanan extends CI_Controller {
 	{
 		$this->load->view('Buatpesanan');
 	}
-	public function konfirmasi()
-	{
-		$this->load->view('KonfirmasiPembayaran');
-	}
 }
