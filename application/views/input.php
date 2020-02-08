@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Sapi Limousine</title>
+	<title>Document</title>
 
 	<?php $this->load->view('_parts/resources.php') ?>
 </head>
@@ -77,36 +77,7 @@
 				</div>
 			</div>
 
-			<div class="col-4 ml-4">
-				<div class="row">
-					<div class="col text-left">
-						<div style="font-size: 2em">Penjual</div>
-					</div>
-				</div>
-				<div class="row text-left">
-					<hr align="left" style="height: 1px; background: gray; width:80%; " />
-				</div>
-				<div class="row">
-					<div class="col text-left">
-						<div class="row">
-							<div class="col">
-								<div class="mt-1" style="font-size: 1em">Pemilik</div>
-								<div class="mt-1" style="font-size: 1em">Alamat</div>
-								<div class="mt-1" style="font-size: 1em">Kontak/Wa</div>
-							</div>
-							<div class="col text-right mr-5 pr-5">
-								<div class="mt-1" style="font-size: 1em"><b>Ardan</b></div>
-								<div class="mt-1" style="font-size: 1em"><b>Madiun</b></div>
-								<div class="mt-1" style="font-size: 1em"><b>085796541236</b></div>
-							</div>
-						</div>
-					</div>
-					<hr align="left" style="height: 1px; background: gray; width:80%; " />
-					<div class="row">
-						<img src="assets/images/ad.png" style="width:25vw; height:20vh;" class="bg-info ml-3">
-					</div>
-				</div>
-			</div>
+			
 
 			<div class="row  mt-2 ml-3 w-100">
 				<div class="row">
@@ -115,10 +86,11 @@
 			</div>
 			<hr align="left" style="height: 1px; background: gray; width:90%; " />
 			<div class="w-75">
-				Sapi adalah hewan ternak anggota suku Bovidae dan anak suku Bovinae. Sapi yang telah dikebiri dan biasanya digunakan untuk membajak sawah dinamakan lembu.
+				Sapi adalah hewan ternak anggota suku Bovidae dan anak suku Bovinae. Sapi yang telah dikebiri dan biasanya digunakan untuk membajak sawah dinamakan lembu. 
 				Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia. Hasil sampingannya seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia.
 			</div>
 		</div>
+
 	</div>
 </body>
 

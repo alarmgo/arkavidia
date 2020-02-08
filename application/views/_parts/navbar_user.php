@@ -6,8 +6,8 @@
 				<img src="assets/images/icons/menu.png" style="height: 20px;"><br>Menu
 			</button>
 			<div class="dropdown-menu bg-konco">
-				<a class="dropdown-item" href="#">Artikel</a>
-				<a class="dropdown-item" href="#">Jual-Beli</a>
+				<a class="dropdown-item" href="<?php echo site_url('artikel') ?>">Artikel</a>
+				<a class="dropdown-item" href="<?php echo site_url('catalog') ?>">Jual-Beli</a>
 			</div>
 		</div>
 	</button>
@@ -21,7 +21,7 @@
 			</li>
 		</ul>
 
-		<form class="form-inline" style="">
+		<form class="form-inline">
 			<input class="form-control" style="height: 40px; width: 50vw; min-width: 25vw;" type="search" placeholder="Cari" aria-label="Search">
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
@@ -34,14 +34,14 @@
 			<div class="dropdown-menu dropdown-menu-right bg-konco" style="width: 15vw;">
 				<div class="text-center">
 					<img src="assets/images/userdummy.jpg" style="border-radius: 50%; width: 75%; margin-bottom: 5px;">
-					<a style="color: black;" href="edit"><b>Dummy User</a>
+					<a style="color: black;" href="edit"><b>Dummy User</b></a>
 					<a class="dropdown-item" href="edit">Edit Profil</a>
 				</div>
 				<div class="dropdown-divider"></div>
 				<a class="dropdown-item" href="histori">Histori Transaksi</a>
 				<div class="btn-group">
-						<a class="dropdown-item" href="daftar">Daftar Produk</a>
-						<a class="dropdown-item font-weight-bold" href="input">+</a>
+						<a class="dropdown-item" href="daftar_p">Daftar Produk</a>
+						<a class="dropdown-item font-weight-bold" href="tmbhproduk">+</a>
 				</div>
 				<div class="dropdown-divider"></div>
 				<a class="dropdown-item" href="#" style="color: red;">Keluar</a>

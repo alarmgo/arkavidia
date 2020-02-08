@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Pembayaran Terkonfirmasi</title>
+	<title>Produk Ditambahkan</title>
 
 	<?php $this->load->view('_parts/resources.php') ?>
 </head>
@@ -16,15 +16,14 @@
 		<div class="col-8 shadow-sm" style="border:1px solid #999999;  height: 35vh; width: 60vw; position: relative; top: 25%; left: 20%;">
 			<div class="row">
 				<div class="col text-center mt-3">
-					[INV/013020/001032]<br>
-					<h5>Sapi Limousine</h5>
+					[PROD/013020/001032]<br>
 				</div>
 			</div>
 			<hr align="left" style="height: 1px; background: gray; width:100%; " />
 			<div class="row">
 				<div class="col text-center">
-					<h2>Pembayaran telah berhasil dikonfirmasi!</h2><br>
-					Selanjutnya, traksaksi akan diteruskan ke penjual.
+					<h2>Produk telah berhasil ditambah!</h2><br>
+					Selanjutnya, produk akan masuk ke etalase tokomu.
 				</div>
 			</div>
 

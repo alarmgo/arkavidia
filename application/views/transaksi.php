@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
+	<title>Form Transaksi</title>
 
 	<?php $this->load->view('_parts/resources.php') ?>
 </head>
@@ -27,7 +27,7 @@
 						Nama Pembeli
 					</div>
 					<div class="col text-right">
-						<b>Alan R</b>
+						<b>Dummy User</b>
 					</div>
 				</div>
 				<hr align="left" style="height: 1px; background: gray; width:100%; " />
@@ -90,7 +90,7 @@
 				</div>
 				<div class="row mt-3">
 					<div class="col text-left">
-						<a href="berhasil" class="btn btn-outline-dark text-center w-100 mt-4">Konfirmasi Pembayaran</a>
+						<a href="konfirm" class="btn btn-outline-dark text-center w-100 mt-4">Konfirmasi Pembayaran</a>
 					</div>
 				</div>
 			</div>

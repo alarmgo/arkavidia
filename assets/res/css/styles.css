@@ -8,24 +8,24 @@
 } 
 
 .btn-outline-konco {
-  color: #007bff;
-  border-color: #007bff;
+	color: #007bff;
+	border-color: #007bff;
 }
 
 .btn-outline-konco:hover {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+	color: #fff;
+	background-color: #007bff;
+	border-color: #007bff;
 }
 
 .btn-konco {
-  background-color: #e9e9e9;
-  border-color: #e9e9e9;
+	background-color: #e9e9e9;
+	border-color: #e9e9e9;
 }
 
 .btn-konco-profil {
-  background-color: #d9d9d9;
-  border-color: #e9e9e9;
+	background-color: #d9d9d9;
+	border-color: #e9e9e9;
 }
 
 .carousel-overlay{
@@ -53,7 +53,6 @@
 		padding-left: 3%;
 		padding-top: 3px;
 		padding-bottom: 1%;
-		padding 
 		color: #fff;
 		text-align: left;
 	}
@@ -94,4 +93,12 @@
 
 .shadow-inv {
 	box-shadow: 0 0 2rem 0.53rem rgba(0, 0, 0, 0.15) !important;
-  }
+}
+
+.edit {
+	display; none;
+}
+
+.edit:hover .show{
+	display: block;
+}

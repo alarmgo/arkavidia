@@ -8,7 +8,6 @@
     <link rel="stylesheet" type="text/css" href="assets/res/datatables/jquery.dataTables.min.css">
     <?php $this->load->view('_parts/resources.php') ?>
     <title>Artikel KoncoTernak</title>
-    <?php $this->load->view('_parts/resources.php') ?>
 </head>
 
 <body>
