@@ -18,8 +18,9 @@
 			</div>
 			
 			<form class=" ml-5">
-				<input type="checkbox" href="#" style="color: black;">Kambing (0)</input><br>
-				<input type="checkbox" href="#" style="color: black;">Sapi (20)</input><br>
+				<input type="checkbox" href="#" style="color: black;">Desa Kawedu... (10)</input><br>
+				<input type="checkbox" href="#" style="color: black;">Desa Majiran (5)</input><br>
+				<input type="checkbox" href="#" style="color: black;">Desa pojok (5)</input><br>
 				<a href="#" style="color: black;">+ more...</a>
 			</form>
 
@@ -28,8 +29,8 @@
 			</div>
 			
 			<form class=" ml-5">
-				<input type="checkbox" href="#" style="color: black;">Kambing (0)</input><br>
-				<input type="checkbox" href="#" style="color: black;">Sapi (20)</input><br>
+				<input type="checkbox" href="#" style="color: black;">Jantan (10)</input><br>
+				<input type="checkbox" href="#" style="color: black;">Betina (10)</input><br>
 			</form>
 
 			<div class="mt-2 ml-2">
@@ -42,8 +43,8 @@
 			</form>
 
 		</div>
-		<div class="col" style="position:absolute; left: 15vw;">
-			<hr class="" style="border-left: 1px solid black; height:100vh;">
+		<div style="position:absolute; left: 17vw;">
+			<hr style="border-left: 1px solid black; height:100vh;">
 		</div>
 
 

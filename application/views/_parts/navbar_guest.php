@@ -26,13 +26,13 @@
 			<button class="btn btn-secondary mr-2" style="height: 40px;" type="submit"><img src="assets/images/icons/find.png" style="height: 24px;"></button>
 		</form>
 		<div class="navbar-nav">
-			<a class="btn btn-dark mr-1" href="login">Daftar</a>
+			<a class="btn btn-dark mr-1" href="#">Daftar</a>
 		</div>
 
 		<div class="btn-group">
-			<button type="button" class="btn btn-outline-dark dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			<a href="login" class="btn btn-outline-dark">
 				Masuk
-			</button>
+			</a>
 		</div>
 	</div>
 </nav>

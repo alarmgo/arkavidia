@@ -22,8 +22,8 @@
 					Menampilkan Hasil Pencarian - "Sapi Betina"
 				</div>
 
-				<div class="row ml-5 mt-3" style="height: 45vh;">
-					<div class="col btn btn-cat mx-auto" style="width: 45vh;">
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<a href="produk" class="col btn btn-cat mx-2" style="width: 45vh;">
 						<div class="row m-auto">
 							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
 						</div>
@@ -33,61 +33,182 @@
 						<div class="row ml-1">
 							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
 						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
+					</a>
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
 						<div class="row ml-1">
 							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
 						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="col btn btn-cat mx-5">
-
-					</div>
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
 				</div>
-				<div class="row mx-auto mt-3" style="height: 30vh;">
-					<div class="col btn btn-cat mx-5">
 
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<div class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
 				</div>
-				<div class="row mx-auto mt-3" style="height: 30vh">
-					<div class="col btn btn-cat mx-5">
-
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<div class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-
+				</div>
+				<div class="row ml-2 mt-3" style="height: 45vh;">
+					<div class="col btn btn-cat mx-2" style="width: 45vh;">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c1.jpeg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-				<div class="row mx-auto mt-3" style="height: 30vh">
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c2.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
-					<div class="col btn btn-cat mx-5">
-
-					</div>
-					<div class="col btn btn-cat mx-5">
-
-					</div>
-
-					</div>
-				<div class="row mx-auto mt-3" style="height: 30vh">
-					<div class="col btn btn-cat mx-5">
-
-					</div>
-					<div class="col btn btn-cat mx-5">
-
-					</div>
-					<div class="col btn btn-cat mx-5">
-
+					<div class="col btn btn-cat mx-2">
+						<div class="row m-auto">
+							<img class="img-fluid mx-auto my-3" style="height: 25vh; width: 25vh; object-fit: cover;" src="assets/images/c3.jpg">
+						</div>
+						<div class="row text-left ml-1">
+							<b>Rp22.000.000</b>
+						</div>
+						<div class="row ml-1">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+						</div>
+						<div class="row ml-1 mt-3">
+							<div style="font-size: 0.7rem;">Jual sapi/lembu limosin betina</div>
+							<div style="font-size: 0.7rem; position:relative; right: -40px;">kemarin</div>
+						</div>
 					</div>
 				</div>
 			</div>
